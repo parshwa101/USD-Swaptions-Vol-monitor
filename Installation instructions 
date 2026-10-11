@@ -1,0 +1,7 @@
+1. Clone the repository and install dependencies:git clone
+ [https://github.com/your-username/usd-swaption-monitor.git](https://github.com/your-username/usd-swaption-monitor.git)
+cd usd-swaption-monitor
+pip install numpy pandas matplotlib seaborn
+
+2.Run the pipeline script: 
+usd_swaption_monitor.py
